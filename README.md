@@ -9,6 +9,7 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
+    This going to be hidden.
 
 </details>
 
