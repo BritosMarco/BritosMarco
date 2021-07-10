@@ -1,11 +1,11 @@
-### Hi there 👋
+### Olá, eu sou Marco Brito 👋
 ![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=tokyonight)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-    This going to be hidden.
+  
 
 </details>
 
