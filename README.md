@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=radical)
+![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=merko)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
