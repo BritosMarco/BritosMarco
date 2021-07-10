@@ -1,3 +1,5 @@
+### Hi there 👋
+![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=radical)
 <!--
 **BritosMarco/BritosMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
