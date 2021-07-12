@@ -14,8 +14,8 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ---
   
-  
-  ![Html e Css](https://user-images.githubusercontent.com/85652672/125279497-60d92400-e2ea-11eb-9257-aec38e4dcee1.jpg)
+![Html e Css](https://user-images.githubusercontent.com/85652672/125280017-f96fa400-e2ea-11eb-8674-3e551a03404e.jpg)
+
 
 
 </p>
