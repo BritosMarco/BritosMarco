@@ -15,12 +15,13 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ---
   
-![Java Script](https://user-images.githubusercontent.com/85652672/126041639-ce0cce08-6fea-4d39-9621-f0e864b4d369.jpg)
-![html](https://user-images.githubusercontent.com/85652672/126041644-bb5d94fa-0544-447b-96c4-a3a24995e96f.jpg) 
-![Css](https://user-images.githubusercontent.com/85652672/127194500-5290c5f3-6e20-4da4-9269-623ea9e790d1.jpg)
-![python](https://user-images.githubusercontent.com/85652672/126041659-c72eda12-bdec-43d7-8f44-571a4556bceb.jpg)
-![C_Sharper](https://user-images.githubusercontent.com/85652672/126041661-a9f67a4a-c479-4be8-8e45-63eb7a75c5ae.jpg) 
-![SQL Server](https://user-images.githubusercontent.com/85652672/126041667-1a0d62e0-88d0-4feb-839a-02c8490e2096.jpg)
+![Java Script](https://user-images.githubusercontent.com/85652672/127195592-6f9bafd5-3179-424e-a36a-b6d60d9e7a18.jpg)
+![html](https://user-images.githubusercontent.com/85652672/127195616-7e81f91c-a740-4aa7-9b85-367b6b92cefc.jpg)
+![Css](https://user-images.githubusercontent.com/85652672/127195640-877826a0-945d-4b7f-8c6c-4c83cbbfe73d.jpg)
+![C_Sharper](https://user-images.githubusercontent.com/85652672/127195682-de08e3e9-2f72-4309-9fc4-0e9c25f699a6.jpg)
+![MySQL-logo](https://user-images.githubusercontent.com/85652672/127195705-437f2b98-edba-4fa7-a3f7-c12a1732d7b9.jpg)
+![SQL Server](https://user-images.githubusercontent.com/85652672/127195728-a5f0ea54-dbe0-4911-b5d9-160caa2480a0.jpg)
+
 
 
 </p>
