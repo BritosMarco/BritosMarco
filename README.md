@@ -1,7 +1,7 @@
 
 ### Olá, eu sou Marco Brito 👋
 ![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=tokyonight)
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BritosMarco&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BritosMarco&layout=compact&show_icons=true&theme=tokyonight)
 
 
 
