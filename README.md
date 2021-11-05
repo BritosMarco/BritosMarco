@@ -1,13 +1,11 @@
 
 ### Olá, eu sou Marco Brito 👋
-![Marco Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritosMarco&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BritosMarco&layout=compact&show_icons=true&theme=tokyonight)
 
-
-
-
-
-
+<div align="center">
+  <a href="https://github.com/BritosMarco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
