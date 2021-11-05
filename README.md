@@ -22,12 +22,14 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 ---
   
-![Java Script](https://user-images.githubusercontent.com/85652672/127195592-6f9bafd5-3179-424e-a36a-b6d60d9e7a18.jpg)
-![html](https://user-images.githubusercontent.com/85652672/127195616-7e81f91c-a740-4aa7-9b85-367b6b92cefc.jpg)
-![Css](https://user-images.githubusercontent.com/85652672/127195640-877826a0-945d-4b7f-8c6c-4c83cbbfe73d.jpg)
-![C_Sharper](https://user-images.githubusercontent.com/85652672/127195682-de08e3e9-2f72-4309-9fc4-0e9c25f699a6.jpg)
-![MySQL-logo](https://user-images.githubusercontent.com/85652672/127195705-437f2b98-edba-4fa7-a3f7-c12a1732d7b9.jpg)
-![SQL Server](https://user-images.githubusercontent.com/85652672/127195728-a5f0ea54-dbe0-4911-b5d9-160caa2480a0.jpg)
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 
 
 
