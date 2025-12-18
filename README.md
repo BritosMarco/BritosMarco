@@ -38,11 +38,11 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. At
 
 ### 📈 Contribuições
 <div align="center">
-  <img src="https://github.com/BritosMarco/BritosMarco/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+   ![Snake animation](https://raw.githubusercontent.com/BritosMarco/BritosMarco/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
 
 <p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/BritosMarco/BritosMarco/output/github-contribution-grid-snake.svg)
+
 </p>
