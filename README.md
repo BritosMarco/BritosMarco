@@ -15,7 +15,7 @@ Atuo principalmente com **Python (Django, Django REST Framework, Celery)** no ba
 
 Tenho forte interesse em **arquitetura de sistemas, mensageria, integrações complexas e modelagem de domínio**, sempre buscando código limpo, sustentável e fácil de evoluir.
 
-- 🔭 Atualmente trabalhando no **Marketplace Católico**
+
 - 🌱 Aprofundando conhecimentos em **Arquitetura de Microserviços, Mensageria e Sistemas Distribuídos**
 - 💬 Pergunte-me sobre **Python, Django, APIs REST, Celery, React ou C#**
 - 📫 Onde me encontrar:
